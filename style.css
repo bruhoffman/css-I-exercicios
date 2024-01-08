@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    display: block;
+    margin: 5px;
+    width: 30vw;
+    padding: 5px 5px 5px 15px;
+    color: white;
+}
+
+#bloco-1 {
+    background-color: sandybrown;
+    border: solid 5px chocolate;
+}
+
+#bloco-2 {
+    background-color: darkolivegreen;
+    border: solid 5px green;
+}
+
+#bloco-3 {
+    background-color: darkgreen;
+    border: dashed 5px greenyellow;
+}
+
+#bloco-4 {
+    background-color: brown;
+    border: dashed 5px red;
+}
